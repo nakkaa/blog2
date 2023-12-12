@@ -1,0 +1,5 @@
+.hugo_build.lock
+public/
+resources/
+themes/hugo-theme-salt
+.DS_Store
