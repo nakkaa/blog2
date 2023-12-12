@@ -1,12 +1,8 @@
 baseURL: https://magnificent-puppy-dab32d.netlify.app/
 languageCode: ja
 theme: hugo-theme-salt
-title: Hugoブログテーマ「Salt」
-copyright: © 2021 my_name
-author:
-  name: my_name
-  email: my_email@example.com
-  url: https://example.com/my_url
+title: なっかあのメモ帳
+copyright: © 2023 nakkaa
 googleAnalytics:
 disqusShortname:
 
@@ -83,6 +79,10 @@ params:
     description: organization_description
     sameAs:
       - https://example.com/sameAs
+  author:
+    name: nakkaa
+    email: tnakkaa@gmail.com
+    url: https://7ka.org
 
 menu:
   header:
